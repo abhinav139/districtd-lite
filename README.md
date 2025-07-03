@@ -43,9 +43,9 @@ Abhinav Goyal
 GitHub: abhinav139
 ## 📸 Screenshots
 
-### 💻 Full Dashboard View
+### 💻 wealth management view
 ![Dashboard](./assets/2.png)
 
-### 📱 Mobile Responsive View
+### stocks 
 ![Mobile](./assets/1.png)
 
